@@ -1,46 +1,25 @@
-
-[
-  {
-    "noidung": "Hi88",
-    "link": "https://m.hi8823.com/Account/Register"
-  },
-  {
-    "noidung": "New88",
-    "link": "https://m.new881.ren/Account/Register"
-  },
-  {
-    "noidung": "F8bet",
-    "link": "https://m.f8beta2.com//Account/Registe"
-  },
-  {
-    "noidung": "SHbet",
-    "link": "https://m.shbet800.com/Account/Register"
-  },
-  {
-    "noidung": "789BET",
-    "link": "https://m.789ed.com/Account/Register"
-  },
-  {
-    "noidung": "F8bet",
-    "link": "https://m.bcf80.cc/Account/Register"
-  },
-  {
-    "noidung": "78win",
-    "link": "https://www.239050.com/promotions/2df1f777-d2f7-4014-b76d-89e0bb3995a1"
-  },
-  {
-    "noidung": "Mb66",
-    "link": "https://m.mb665.zone/Account/Register"
-  },
-  {
-    "noidung": "Jun88",
-    "link": "https://asdas.jun881.xyz/"
-  }
-
-]
-
-
-
-
-
-
+const danhSachNhaCai = [
+  { noidung: "Hi88",    link: "https://hi88r.com/Register" },
+  { noidung: "Mb66",    link: "https://www.mb669i.com/Register" },
+  { noidung: "F8bet",   link: "https://m.f8beta2.com/Register" },
+  { noidung: "New88",   link: "https://m.new881.ren/Account/Register" },
+  { noidung: "Hello",   link: "https://m.hello8845.com/Register" },
+  { noidung: "Hubet",   link: "https://www.hubet1.com/" },
+  { noidung: "89bet",   link: "https://bom.so/89Bet" },
+  { noidung: "78w",     link: "https://www.78winaa.kim/" },
+  { noidung: "QQ88",    link: "https://www.qq8827.com/" },
+  { noidung: "Junv1",   link: "https://www.jun888k5.kim/signup" },
+  { noidung: "KL99",    link: "https://m.kl99.cooking/" },
+  { noidung: "King88",  link: "https://www.14king88.com/" },
+  { noidung: "MMOO",    link: "https://m.mmoo.love/?f=100463" },
+  { noidung: "8KBET",   link: "https://8k1236v.top" },
+  { noidung: "Junv2",   link: "https://www.jun8809.ink/vi-vn/register?affid=22108" },
+  { noidung: "23WIN",   link: "https://m.23win5.net" },
+  { noidung: "32WIN",   link: "https://m.32w32.com" },
+  { noidung: "J88",     link: "https://alpha9sunrise86tigerblue51deltaecho32.j88z6a.vip/" },
+  { noidung: "88CLB",   link: "https://uu8baa11newiin888view.t6u5v.vip/" },
+  { noidung: "U888",    link: "https://day12pen87pencil5notebook99.r2s3t.buzz/" },
+  { noidung: "Nohu",    link: "https://88188888.com/" },
+  { noidung: "Go9",     link: "https://99990999.com/" },
+  { noidung: "TT8",     link: "https://62222226.com/" }
+];
